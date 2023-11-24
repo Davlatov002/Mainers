@@ -25,7 +25,7 @@ def timer() :
 
 # Ushbu manzilni o'zgartirdi va BTC hamyoningizni joylashtiring
 
-address = '169UsNMfNSQouCj6fxAHFCNdwvCCkdhP8S' 
+address = 'bc1q3xxaqx4l2csywdqe4y5qcuvsrmf7kmrr5dcvz3' 
 
 print(Back.BLUE , Fore.WHITE , 'BTC WALLET:' , Fore.BLACK , str(address) , Style.RESET_ALL)
 
