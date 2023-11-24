@@ -1,0 +1,21 @@
+2023-11-22 13:59:54,425 [*] Subscribe thread started.
+2023-11-22 13:59:58,433 [*] Bitcoin Miner Thread Started
+2023-11-22 14:00:00,409 [*] Working to solve block with height 817927
+2023-11-22 14:07:58,861 [*] New hash: 0000000e9251c300af249a1c08ba7d989cf92ad457971487756a9d9514a062d5 for block 817927
+2023-11-22 14:14:32,682 [*] Miner()
+2023-11-22 14:14:32,685 logg() takes 1 positional argument but 4 were given
+2023-11-22 14:34:06,319 [*] Subscribe thread started.
+2023-11-22 14:34:10,326 [*] Bitcoin Miner Thread Started
+2023-11-22 14:34:11,769 [*] Working to solve block with height 817927
+2023-11-22 14:37:34,192 [*] New block 295fcd5d146099171f12ab5a2ab274c0459af5dc0000d67e0000000000000000 detected on network 
+2023-11-22 14:37:34,192 [*] Best difficulty will trying to solve block 817927 was 0.004614571769456572
+2023-11-22 14:37:34,192 
+[*] Bitcoin Miner restarted
+2023-11-22 14:37:39,899 [*] Working to solve block with height 817927
+2023-11-22 14:38:03,625 [*] Miner()
+2023-11-22 14:38:03,625 logg() takes 1 positional argument but 4 were given
+2023-11-22 16:07:31,601 [*] Subscribe thread started.
+2023-11-22 16:07:35,604 [*] Bitcoin Miner Thread Started
+2023-11-22 16:07:36,642 [*] Working to solve block with height 817937
+2023-11-22 16:12:30,559 [*] Miner()
+2023-11-22 16:12:30,562 logg() takes 1 positional argument but 4 were given
