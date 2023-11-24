@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    command: python SoloMinerV2.py
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
+  
